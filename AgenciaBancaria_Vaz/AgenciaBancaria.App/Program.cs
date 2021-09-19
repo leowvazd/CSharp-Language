@@ -18,7 +18,7 @@ namespace AgenciaBancaria.App
                     conta.DigitoVerificador);
                 
                 // Abertura de conta
-                string senha = "abc123456789";
+                string senha = "senha";
                 conta.Abrir(senha);
 
                 Console.WriteLine("Conta " + conta.Situacao + ": " + conta.NumeroConta + "-" +
