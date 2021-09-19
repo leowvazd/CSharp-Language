@@ -10,8 +10,8 @@ namespace AgenciaBancaria.App
             try
             {
                 // Criação da conta
-                Endereco endereco = new Endereco("Rua teste", "12345678", "Pederneiras", "SP");
-                Cliente cliente = new Cliente("Carla", "123456", "456789", endereco);
+                Endereco endereco = new Endereco("Rua AAA", "123", "São Paulo", "SP");
+                Cliente cliente = new Cliente("Leo", "000000", "123456", endereco);
                 ContaCorrente conta = new ContaCorrente(cliente, 100);
 
                 Console.WriteLine("Conta " + conta.Situacao + ": " + conta.NumeroConta + "-" + 
