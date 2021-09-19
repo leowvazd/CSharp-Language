@@ -25,16 +25,16 @@ namespace AgenciaBancaria.App
                     conta.DigitoVerificador);
 
                 // Utilização da conta
-                conta.Sacar(10, senha);
+                conta.Sacar(50, senha);
                 Console.WriteLine(conta.VerSaldo());
 
-                conta.Depositar(50);
+                conta.Depositar(100);
                 Console.WriteLine(conta.VerSaldo());
 
-                conta.Sacar(20, senha);
+                conta.Sacar(50, senha);
                 Console.WriteLine(conta.VerSaldo());
 
-                conta.Depositar(10);
+                conta.Depositar(25);
                 Console.WriteLine(conta.VerExtrato());
             }
             catch (Exception ex)
