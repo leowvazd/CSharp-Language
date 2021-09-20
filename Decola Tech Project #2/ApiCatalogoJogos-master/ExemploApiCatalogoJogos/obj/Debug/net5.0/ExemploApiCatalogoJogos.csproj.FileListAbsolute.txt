@@ -1,0 +1,7 @@
+C:\Users\vazle\Downloads\PJ\Decola Tech Project #2\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\vazle\Downloads\PJ\Decola Tech Project #2\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazle\Downloads\PJ\Decola Tech Project #2\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\vazle\Downloads\PJ\Decola Tech Project #2\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\vazle\Downloads\PJ\Decola Tech Project #2\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\vazle\Downloads\PJ\Decola Tech Project #2\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vazle\Downloads\PJ\Decola Tech Project #2\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
